@@ -7,12 +7,12 @@ Hello! I'm Olawale Damilare Matthew 🤓, a data analyst with a passion for turn
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-As a Data Analyst, my primary role is to collect, process, and perform statistical analysis on data to help businesses make informed decisions.
+As a Data Analyst, my primary role is to collect, process, and perform statistical analysis on data to help businesses and firms make informed decisions.
 - ✅ Data Collection and Cleaning:
 - I Gather data from various sources, including databases, spreadsheets, and APIs, Clean and preprocess data to ensure accuracy and consistency, which may involve handling missing values, removing duplicates, and correcting errors. 
 
 - ✅ Data Analysis:
-I Use statistical techniques and software tools (such as SQL, Python, R, and Excel) to analyze data and identify trends, patterns, and insights. 
+I Use statistical techniques and software tools (such as Ms.Excel, SQL, Python, and Power Bi) to analyze data and identify trends, patterns, and insights. 
 
 
 <!--Section 2: List 3-4 key projects-->
