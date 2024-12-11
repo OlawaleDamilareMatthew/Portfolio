@@ -1,19 +1,18 @@
 # <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Olawale Damilare MAtthew 🤓, a data analyst, educator, and engineer and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Olawale Damilare MAtthew 🤓, a data analyst with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-As the Chief Analyst of the_DataVersewithAY, I provide consulting and training services for businesses and mentor aspiring analysts.
+As a Data AnalystAs a data analyst, my primary role is to collect, process, and perform statistical analysis on data to help businesses make informed decisions.
+- ✅ Data Collection and Cleaning:
+- I Gather data from various sources, including databases, spreadsheets, and APIs, Clean and preprocess data to ensure accuracy and consistency, which may involve handling missing values, removing duplicates, and correcting errors. 
 
-- ✅ Data Analytics Consulting.
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-- ✅ Staff Training & Development.
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+- ✅ Data Analysis:
+I Use statistical techniques and software tools (such as SQL, Python, R, and Excel) to analyze data and identify trends, patterns, and insights. 
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -21,13 +20,13 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 A glimpse of some of the projects I've been working on.
 
-Predictive Modeling and Hypothesis Testing using Titanic Dataset.
+A Technology Company Laptop sale Dataset for the year 2014 & 2015.
 ![image](Laptop PowerBI_page-0001 (1).jpg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This Dataset shows the Business flows and area of improvement for the management.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anie/)
+[Read More](https://www.linkedin.com/posts/olawale-damilare-matthew-2a8a5a146_dataanalysis-dashboard-datavisualization-activity-7271859411801821184-111U?utm_source=share&utm_medium=member_desktop)
 
 Predictive Modeling and Hypothesis Testing using Titanic Dataset.
 
@@ -53,11 +52,11 @@ Let’s connect and see how we can make a difference together!
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:ayobamio.oje@gmail.com">ayobamio.oje@gmail.com</a></td>
+      <td><a href="mailto:olawaledamilarem@gmail.com">olawaledamilarem@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 817-859-6789</td>
+      <td>(234) 9135542539</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -69,7 +68,7 @@ Let’s connect and see how we can make a difference together!
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/ayobami-oje">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/olawale-damilare-matthew-2a8a5a146">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
