@@ -1,13 +1,13 @@
 # <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Olawale Damilare MAtthew 🤓, a data analyst with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Olawale Damilare Matthew 🤓, a data analyst with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-As a Data AnalystAs a data analyst, my primary role is to collect, process, and perform statistical analysis on data to help businesses make informed decisions.
+As a Data Analyst, my primary role is to collect, process, and perform statistical analysis on data to help businesses make informed decisions.
 - ✅ Data Collection and Cleaning:
 - I Gather data from various sources, including databases, spreadsheets, and APIs, Clean and preprocess data to ensure accuracy and consistency, which may involve handling missing values, removing duplicates, and correcting errors. 
 
