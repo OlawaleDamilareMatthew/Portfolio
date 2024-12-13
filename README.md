@@ -29,7 +29,7 @@ This Dataset shows the Business flows and area of improvement for the management
 
 A project analyzed using an Hoapital Dataset.
 
-![image](2 Hospital dataset new.pdfhhh_page-0001 (1).jpg) 
+![image](Hospital dataset new.pdfhhh_page-0001 (1).jpg) 
 
 <a href="17 How to Present Data to Executives k.pdf">Download the Report here (pdf file)</a>
 
