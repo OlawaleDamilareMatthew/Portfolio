@@ -28,7 +28,7 @@ This Dataset shows the Business flows and area of improvement for the management
 
 [Read More](https://www.linkedin.com/posts/olawale-damilare-matthew-2a8a5a146_dataanalysis-dashboard-datavisualization-activity-7271859411801821184-111U?utm_source=share&utm_medium=member_desktop)
 
-Predictive Modeling and Hypothesis Testing using Titanic Dataset.
+Predictive Modeling and Hypothesis Testing using Hoapital Dataset.
 
 ![image](2  data analytics sales project.jpg)
 
