@@ -64,15 +64,11 @@ Let’s connect and see how we can make a difference together!
     </tr>
     <tr>
       <td>⬇</td>
-      <td><a href="https://eu123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Olawale Damilare resume (1).docx11 2024.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/olawale-damilare-matthew-2a8a5a146">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@theDataVersewithAY">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
