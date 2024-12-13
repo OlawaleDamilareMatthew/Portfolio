@@ -1,7 +1,7 @@
 # <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Olawale Damilare Matthew 🤓, a data analyst with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Olawale Damilare Matthew 🤓, a data analyst with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses and firms to solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -25,25 +25,13 @@ A Technology Company Laptop sale Dataset for the year 2014 & 2015.
 
 This Dataset shows the Business flows and area of improvement for the management.
 
-
 [Read More](https://www.linkedin.com/posts/olawale-damilare-matthew-2a8a5a146_dataanalysis-dashboard-datavisualization-activity-7271859411801821184-111U?utm_source=share&utm_medium=member_desktop)
 
-Predictive Modeling and Hypothesis Testing using Hoapital Dataset.
+A project analyzed using an Hoapital Dataset.
 
-![image](2  data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset/)
-
-Predictive Modeling and Hypothesis Testing using Titanic Dataset.
-
-![image](3 anie data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+![image](2 Hospital dataset new.pdfhhh_page-0001 (1).jpg) 
 
 <a href="17 How to Present Data to Executives k.pdf">Download the Report here (pdf file)</a>
-
 
 ## CONTACT DETAILS
 
